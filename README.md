@@ -1,7 +1,8 @@
-#Staynub clone
+# Staynub Clone
 
-#Description
-This was built with HTML and CSS
+# Description
 
-#How Steup
-download the idex.html files
+This built with html and css
+
+# How to setup
+download files and run the index.html file
